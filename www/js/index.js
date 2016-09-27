@@ -54,7 +54,7 @@ var app = {
             },
             android: {
                 banner: 'ca-app-pub-1993302359072486/6922072259',
-                interstitial: 'ca-app-pub-9863325511078756/2279080628'
+                interstitial: 'ca-app-pub-1993302359072486/8148126653'
             }
         };
         var admobid;
