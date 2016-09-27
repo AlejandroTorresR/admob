@@ -53,7 +53,7 @@ var app = {
                 interstitial: 'ca-app-pub-9863325511078756/6709280228'
             },
             android: {
-                banner: 'ca-app-pub-9863325511078756/9802347428',
+                banner: 'ca-app-pub-1993302359072486/6922072259',
                 interstitial: 'ca-app-pub-9863325511078756/2279080628'
             }
         };
